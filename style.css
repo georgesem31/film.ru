@@ -1,0 +1,92 @@
+.bag {
+    background: #9eecc8;
+    height: 45px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.bag p {
+    margin: 0;
+    padding-top: 15px;
+margin-left: 100px;
+    margin-right: 25px;
+
+
+    color: #fdc401;
+}
+
+body {
+    margin: 0
+}
+
+.bagblue {
+    background: #98c4ea;
+    height: 400px;
+    width: 1200px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.war {
+    width: 300px;
+    height: 400px;
+}
+
+.war2 {
+    width: 300px;
+    height: 400px;
+    margin-left: 150px;
+}
+
+.war3 {
+    width: 300px;
+    height: 400px;
+    margin-left: 140px;
+}
+
+.bag2 {
+    background: #cde94b;
+    height: 60px;
+    width: 1200px;
+
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.bag2 h2 {
+    margin: 0;
+    padding-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wardop {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.bak{
+           
+    background: #0048ff;
+      height: 25px;
+    width: 1200px;
+   margin-left: auto;
+    margin-right: auto;
+   text-align-last: center;
+ 
+
+    
+}
+.bak h2{
+    margin: 0;
+
+}
