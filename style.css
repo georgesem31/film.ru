@@ -1,14 +1,16 @@
-.back{
-    background:#110d05;
-     width: 1200px;
-     height: 500px;
+.imeg{
+
+    height: 800px;
+    width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .bag {
     background: #9eecc8;
     height: 45px;
     width: 1200px;
-    margin-left: 600px;
-    margin-right: 600px;;
+    margin-left: auto;
+    margin-right: auto;
     box-sizing: border-box;
     display: flex;
 }
@@ -24,7 +26,9 @@ margin-left: 100px;
 }
 
 body {
-    margin: 0
+    margin: 0;
+    background-image: url(images.png)
+        
 }
 
 .bagblue {
@@ -94,4 +98,39 @@ body {
 .bak h2{
     margin: 0;
 
+}
+.video{
+  
+  
+   
+    
+
+}
+.treler{
+margin-left: 50px;
+}
+.flex{
+    display: flex;
+}
+.video3{
+    
+}
+.big{
+    background: #e88b7f;
+    width: 1200px;
+    height: 410px;
+    margin-right: auto;
+    margin-left: auto;
+ 
+}
+.mini{
+   
+    height: 410px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.flex1{
+    display: flex;
+   
 }
